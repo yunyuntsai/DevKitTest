@@ -1,0 +1,8 @@
+{
+    "azureCliLocation": "C:\\Program Files (x86)\\Microsoft SDKs\\Azure\\CLI2\\wbin\\az.cmd",
+    "iotHubName": "v-altsai-iothub-49d0",
+    "subscription": "c4a97d67-a21d-4e68-a92e-9ca0c68963cd",
+    "resourceGroup": "v-altsai-group-49d0",
+    "deviceConnectionString": "HostName=v-altsai-iothub-49d0.azure-devices.net;DeviceId=AZ3166;SharedAccessKey=9fzoUFGClznZ/f5SKWDZDJa1+qvg0daoisg4Hu+2idI=",
+    "deviceId": "AZ3166"
+}
